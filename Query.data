@@ -1,0 +1,14 @@
+create table CustomerDetails (Cust_Id int, Cust_Name varchar(20), AccountBalance int);
+mysql> insert into CustomerDetails (Cust_Id, Cust_Name, AccountBalance) values (12345, "Alice", 2000);
+Query OK, 1 row affected (0.43 sec)
+
+mysql> insert into CustomerDetails (Cust_Id, Cust_Name, AccountBalance) values (96206, "bob", 1234);
+Query OK, 1 row affected (0.38 sec)
+
+mysql> insert into CustomerDetails (Cust_Id, Cust_Name, AccountBalance) values (011541907, "Neeraj", 500);
+Query OK, 1 row affected (0.35 sec)
+
+
+create table MoneyOrder (Id int, Amt smallint, OrdNum bigint, MId int, IdentityString varchar(255), UniqueString varchar(255), LeftString varchar(255), RightString varchar(255), Ind int);
+
+create table BitCommit (OrdNum bigint, MID int, LInd int, RandData1 varchar(255), RandData2 varchar(255), CommitString varchar(255), HashValue varchar(255));d
