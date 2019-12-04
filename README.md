@@ -6,6 +6,8 @@ Submitted for class project, Network security, SJSU Instructed by Dr. Gokay Sald
 
 Language: Python2.7 (3.x compatible with minor changes)
 
+Dependencies: BitVector, random, pycrypto, socket, hashlib
+
 Pre requistes:-
 Ubuntu 16.04-> Install mysql,bitvector. 
 Using : apt-get install python-mysqldb, pip install BitVector without this there would be import error.
