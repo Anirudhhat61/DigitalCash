@@ -1,8 +1,8 @@
 # DigitalCash
 
-Digital Cash Implementation Authors - Anirudhha Tiwari
+Digital Cash Implementation Authors - ANIRUDHHA TIWARI,SAMRUDDHI CHANDRATRE,USTATT SINGH
 
-Submitted for class project, Network security, SJSU Instructed by Dr. Gokay Saldamli.
+Submitted for class project, Network security, SJSU Instructed by Prof Dr. Gokay Saldamli.
 
 The Code Invloves the Protocols such as Secret Splitting Bit Commitment RSA Encryption Blind Signature Protocol
 
